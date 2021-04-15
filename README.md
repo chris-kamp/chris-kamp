@@ -1,1 +1,1 @@
-Hi, I'm Chris Kamp. I'm currently studying web development (primarily Ruby on Rails and JavaScript). Here, you can find some of my coursework as well as personal projects.
+Hi, I'm Chris Kamp. I'm currently studying web development (primarily Ruby on Rails and JavaScript). Here, you can find some of my coursework as well as personal projects. You can also follow [my twitter](https://twitter.com/chris_k_dev) where I post regularly about the projects I'm working on.

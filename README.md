@@ -1,1 +1,1 @@
-Hi, I'm Chris. I'm a lawyer turned developer currently studying web development (mainly Ruby/Rails and React/JavaScript). Pretty much every completed project I've worked on is here, from beginner tutorials to Bootcamp coursework to personal projects. You can also follow [my twitter](https://twitter.com/chris_k_dev) where I post regularly about the projects I'm working on.
+Hi, I'm Chris. I'm a former lawyer turned software engineer, working mainly with Ruby/Rails and JS/React in my day job. In my spare time, I like to mess around with machine learning and LLMs.
